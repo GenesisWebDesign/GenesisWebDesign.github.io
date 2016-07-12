@@ -1,0 +1,117 @@
+.header {
+  width: 100%;
+}
+.header .navbar {
+  margin: 0;
+}
+.page-section {
+  width: 100%;
+  min-height: 500px;
+  padding: 100px 0;
+  border-bottom: 5px solid gray;
+}
+.navbar {
+  background-color: rgba(0, 0, 0, 0.7);
+  background-size: cover;
+  font-family: 'Julius Sans One', sans-serif;
+}
+.page-section h1 {
+  color: #5F9;
+  font-family: 'Julius Sans One', sans-serif;
+}
+#title {
+  padding: 20px 10px 20px 10px;
+  background: rgb(20,30,30);
+  background: rgba(20,45,30
+    ,0.50);
+}
+
+.page-section h4 {
+  color: #FFF;
+  font-family: 'Julius Sans One', sans-serif;
+}
+
+.btn {
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+}
+a:hover {
+  transform: scale(1.1);
+}
+#btn-bottom {
+  margin: 5px;
+}
+#btn-bottom: hover {
+  transform: scale(1.5);
+}
+p {
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+.page-section#home {
+  background: url("http://gdurl.com/3FsI") 50% 0 fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: auto;  
+    margin: 0 auto;
+    width: 100%; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 250px 0;
+}
+#verse {
+  color: #598;
+}
+.page-section#about {
+  background: url("http://gdurl.com/962E") 50% 0 fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+      height: auto;  
+    margin: 0 auto; 
+    width: 100%; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 200px 0;
+}
+.page-section#portfolio {
+  background: url("http://gdurl.com/60gx") 50% 0 fixed;
+      height: auto;  
+    margin: 0 auto; 
+    width: 100%; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 75px 0;
+}
+.page-section#contact {
+  background: url("http://gdurl.com/DXMT") 50% 0 fixed;
+  height: auto;  
+    margin: 0 auto; 
+    width: 100%; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 100px 0;
+}
+.scroll-link {
+  background-color: rgba(0, 0, 0, 0.7);
+  background-size: cover;
+  font-family: 'Julius Sans One', sans-serif; 
+}
+img {
+  margin: 15px;
+}
+img:hover {
+  transform: scale(1.08);
+  opacity: 0.8;
+}
+#link:hover {
+  transform: scale(1.08);
+  opacity: 0.8;
+}
+.foot {
+  color: black;
+}
