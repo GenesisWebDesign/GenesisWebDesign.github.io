@@ -110,6 +110,10 @@ img:hover {
   transform: scale(1.08);
   opacity: 0.8;
 }
+#logo {
+ margin-right: auto;
+ margin-left: auto;
+}
 #link:hover {
   transform: scale(1.08);
   opacity: 0.8;
