@@ -20,7 +20,10 @@
   font-family: 'Julius Sans One', sans-serif;
 }
 #title {
-  padding: 20px 10px 20px 10px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-left: auto;
+  padding-right: auto;
   background: rgb(20,30,30);
   background: rgba(20,45,30
     ,0.50);
