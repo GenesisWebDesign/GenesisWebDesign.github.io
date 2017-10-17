@@ -25,6 +25,10 @@
   background: rgba(20,45,30
     ,0.50);
 }
+#logo {
+margin-left: auto;
+margin-right: auto;
+}
 
 .page-section h4 {
   color: #FFF;
