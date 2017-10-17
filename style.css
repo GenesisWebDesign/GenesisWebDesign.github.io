@@ -114,6 +114,10 @@ img:hover {
  margin-right: auto;
  margin-left: auto;
 }
+#logo:hover {
+transform: none;
+opacity: 1;
+}
 #link:hover {
   transform: scale(1.08);
   opacity: 0.8;
